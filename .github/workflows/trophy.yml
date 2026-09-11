@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: ryo-ma/github-profile-trophy@master
         with:
-          username: YOUR_USERNAME
+          username: nuenen313
           output_path: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: onedark          # optional
